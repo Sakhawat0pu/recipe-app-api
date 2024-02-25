@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.15
+FROM python:3.9-alpine3.19
 LABEL maintainer="sakhawatchy"
 
 ENV PYTHONUNBUFFERED 1
